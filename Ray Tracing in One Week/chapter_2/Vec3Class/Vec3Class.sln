@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1778
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02.Vec3Class", "Vec3Class.vcxproj", "{6FA2888F-B6F5-4459-9202-11E517A4C3AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA2888F-B6F5-4459-9202-11E517A4C3AE}.Debug|x64.ActiveCfg = Debug|x64
+		{6FA2888F-B6F5-4459-9202-11E517A4C3AE}.Debug|x64.Build.0 = Debug|x64
+		{6FA2888F-B6F5-4459-9202-11E517A4C3AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{6FA2888F-B6F5-4459-9202-11E517A4C3AE}.Debug|x86.Build.0 = Debug|Win32
+		{6FA2888F-B6F5-4459-9202-11E517A4C3AE}.Release|x64.ActiveCfg = Release|x64
+		{6FA2888F-B6F5-4459-9202-11E517A4C3AE}.Release|x64.Build.0 = Release|x64
+		{6FA2888F-B6F5-4459-9202-11E517A4C3AE}.Release|x86.ActiveCfg = Release|Win32
+		{6FA2888F-B6F5-4459-9202-11E517A4C3AE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04EC9062-20B3-4022-B2C2-B181D043F91E}
+	EndGlobalSection
+EndGlobal

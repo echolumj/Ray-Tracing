@@ -1,0 +1,9 @@
+﻿  project.cpp
+e:\computer graphics\peter\chapter_8\project\project\hitablelist.h(24): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\computer graphics\peter\chapter_8\project\project\project.cpp(24): warning C4305: “参数”: 从“double”到“float”截断
+e:\computer graphics\peter\chapter_8\project\project\project.cpp(50): warning C4305: “参数”: 从“double”到“float”截断
+e:\computer graphics\peter\chapter_8\project\project\project.cpp(51): warning C4305: “参数”: 从“double”到“float”截断
+e:\computer graphics\peter\chapter_8\project\project\project.cpp(52): warning C4305: “参数”: 从“double”到“float”截断
+e:\computer graphics\peter\chapter_8\project\project\project.cpp(53): warning C4305: “参数”: 从“double”到“float”截断
+  LINK : 没有找到 E:\Computer Graphics\Peter\chapter_8\project\x64\Debug\project.exe 或上一个增量链接没有生成它；正在执行完全链接
+  project.vcxproj -> E:\Computer Graphics\Peter\chapter_8\project\x64\Debug\project.exe

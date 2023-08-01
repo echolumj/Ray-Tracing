@@ -1,0 +1,10 @@
+﻿  project.cpp
+e:\computer graphics\peter\chapter_9\project\project\hitablelist.h(24): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\computer graphics\peter\chapter_9\project\project\material.h(28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\computer graphics\peter\chapter_9\project\project\material.h(96): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\computer graphics\peter\chapter_9\project\project\project.cpp(24): warning C4305: “参数”: 从“double”到“float”截断
+e:\computer graphics\peter\chapter_9\project\project\project.cpp(50): warning C4305: “参数”: 从“double”到“float”截断
+e:\computer graphics\peter\chapter_9\project\project\project.cpp(51): warning C4305: “参数”: 从“double”到“float”截断
+e:\computer graphics\peter\chapter_9\project\project\project.cpp(52): warning C4305: “参数”: 从“double”到“float”截断
+e:\computer graphics\peter\chapter_9\project\project\project.cpp(54): warning C4305: “参数”: 从“double”到“float”截断
+  project.vcxproj -> E:\Computer Graphics\Peter\chapter_9\project\x64\Debug\project.exe
