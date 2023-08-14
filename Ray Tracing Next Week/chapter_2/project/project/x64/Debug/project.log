@@ -1,0 +1,3 @@
+﻿  sphere.cpp
+e:\computer graphics\ray tracing\ray tracing next week\chapter_2\project\project\sphere.cpp(22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  project.vcxproj -> E:\Computer Graphics\Ray Tracing\Ray Tracing Next Week\chapter_2\project\x64\Debug\project.exe
